@@ -1,0 +1,11 @@
+torch
+transformers
+sentencepiece
+rouge
+pandas
+openpyxl
+nltk
+scikit-learn
+numpy
+tensorflow
+openpyxl
